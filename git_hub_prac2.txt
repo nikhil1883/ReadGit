@@ -1,8 +1,6 @@
-Hi, I’m [Your Name]. I have 2.5 years of experience working as an AWS Developer. My work mainly focuses on building and deploying cloud-native applications on AWS.
+Hi, I’m [Your Nameiiii]. I have 2.5 years of experience working as an AWS Developer. My work mainly focuses on building and deploying cloud-native applications on AWS.
 
-I’ve designed serverless architectures using AWS Lambda, API Gateway, DynamoDB, and S3. I’m also experienced in using AWS CDK and CloudFormation for infrastructure as code. I’ve implemented CI/CD pipelines with CodePipeline, CodeBuild, and Git integration to automate deployments.
-
-In my last project, I worked on migrating a monolithic app to a serverless architecture, improving performance and reducing operational costs. I also follow AWS security best practices like IAM role management, encryption, and monitoring with CloudWatch.
+ I REMOVE FEW LINES
 
 I’m passionate about AWS technologies and always eager to learn and apply new services or patterns to solve business problems effectively.
 
